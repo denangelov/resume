@@ -1,49 +1,59 @@
-# Brian Hann
-## Senior Web Developer, Data Nerd
+# Dennis Angelov
+## Computer Science Undergraduate @ UCLA
 
-> <span class="no-print">[Download PDF](resume.pdf)</span>
-> [me@mysite.com](me@mysite.com)
-> (999) 888-7777
+> [Github](https://github.com/denang1)
+> (224) 209-0232
 
 ---
 
-### Profile
+### Objective
 
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+Looking for a software developer internship that will provide the opportunity to expand my programming knowledge and get exposed to work in the industry.
 
 ---
 
 ### Skills
 
-* **Web Design**
-  Assertively exploit wireless initiatives rather than synergistic core competencies.
+* **Data Structures & Algorithms**
+  Good grasp of fundamental of data structures and algorithms such as, linked lists, stacks, queues, vectors, trees, hash maps, recursion, sorting algorithms.
 
-* **Interface Design**
-  Credibly streamline mission-critical value with multifunctional functionalities.
+* **Web Development**
+  Experience with Angular, HTML5/CSS/Javascript, making responsive, mobile-friendly websites.
 
-* **Project Direction**
-  Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+* **Game Development**
+  Experience developing interactive, 3D games using Unity and C#.
 
 ---
 
 ### Technical
 
-1. XHTML
-1. CSS
+1. C++
+1. HTML/CSS
 1. Javascript
+1. Typescript
 1. Jquery
-1. PHP
-1. CVS / Subversion
-1. OS X
-1. Windows XP/Vista
-1. Linux
+1. SQL
+1. Java
+1. Unity (C#)
+1. Angular
+1. NodeJS
+1. Git
 
 ---
 
-### Experience
+### Projects
 
-**Microsoft** : *Principal and Creative Lead* __2004-2005__
-  Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials.
+**AP Spanish Website** : *Web Developer* __2018__
+  Created a modern website using Angular 6 and Typescript which implements a photo carousel and full page scrolling functionality.
 
-**International Business Machines (IBM)** : *Lead Web Designer* __2001-2004__
-  Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+**C++ Set Implementation** : *Web Developer* __2018__
+  Implemented the standard library Set in C++ using a standard, doubly linked list as the underlying data structure.
+
+**Unity Horror Game** : *Game Developer* __2017__
+  Created a 1st person horror game in Unity based off of Slender. 
+
+**Rock Paper Scissors AI** : *Web Developer* __2017__
+  Created a website using the Materialize framework for stylistic choices and pure HTML/Javascript/CSS that features a Rock Paper Scissors game with a smart AI.
+
+**Snake Game** : *Game Developer* __2017__
+  Created a 2-player variation of the game Snake using Java.
