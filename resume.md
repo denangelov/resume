@@ -1,5 +1,6 @@
 # Dennis Angelov
 ## Computer Science Undergraduate @ UCLA
+### GPA: 3.9
 
 > [Github](https://github.com/denang1)
 > (224) 209-0232
@@ -8,17 +9,17 @@
 
 ### Objective
 
-Looking for a software developer internship that will provide the opportunity to expand my programming knowledge and get exposed to work in the industry.
+Looking for a software developer internship that will provide the opportunity to expand my programming knowledge and get exposed to work in the industry. Areas of particular interest include: Mobile App Development, REST API development, Automation, and Testing (Unit and E2E).
 
 ---
 
 ### Skills
 
 * **Data Structures & Algorithms**
-  Good grasp of fundamental of data structures and algorithms such as, linked lists, stacks, queues, vectors, trees, hash maps, recursion, sorting algorithms.
+  Good understanding of fundamental data structures and algorithms such as: linked lists, stacks, queues, vectors, trees, hash maps, recursion, sorting algorithms.
 
 * **Web Development**
-  Experience with Angular, HTML5/CSS/Javascript, making responsive, mobile-friendly websites.
+  Experience with Angular (6.x.x), HTML5/CSS/Javascript (ES6), making responsive, mobile-friendly websites.
 
 * **Game Development**
   Experience developing interactive, 3D games using Unity and C#.
@@ -28,16 +29,16 @@ Looking for a software developer internship that will provide the opportunity to
 ### Technical
 
 1. C++
-1. HTML/CSS
-1. Javascript
-1. Typescript
-1. Jquery
-1. SQL
-1. Java
-1. Unity (C#)
-1. Angular
-1. NodeJS
-1. Git
+2. HTML/CSS
+3. Javascript
+4. Typescript
+5. Jquery
+6. SQL
+7. Java
+8. Unity (C#)
+9. Angular
+10. NodeJS
+11. Git
 
 ---
 
