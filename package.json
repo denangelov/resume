@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "md2resume --template standard resume.md"
+    "build:html": "md2resume --template standard resume.md",
+    "build:pdf": "md2resume --template standard --pdf resume.md"
   },
   "keywords": [],
   "author": "",

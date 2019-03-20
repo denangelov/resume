@@ -69,19 +69,19 @@ Looking for a software developer internship that will provide the opportunity to
 
   ### Achievements
 
-  **American Society of Clinical Oncology (ASCO) Abstract Publication**
+  - American Society of Clinical Oncology (ASCO) Abstract Publication
 
-  **American Society of Hematology (ASH) Abstract Publication** 
+  - American Society of Hematology (ASH) Abstract Publication
 
-  **International Ultmann Chicago Lymphoma Symposium Poster Publication**
+  - International Ultmann Chicago Lymphoma Symposium Poster Publication
 
-  **National AP Scholar**
+  - National AP Scholar
 
-  **Commended for National Merit**
+  - Commended for National Merit
 
-  **3rd in Experimental Design @ Illinois State Science Olympiad Competition**
+  - 3rd in Experimental Design @ Illinois State Science Olympiad Competition
 
-  **4th in Chemistry Lab @ Illinois State Science Olympiad Competition**
+  - 4th in Chemistry Lab @ Illinois State Science Olympiad Competition
 
   
 
