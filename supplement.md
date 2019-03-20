@@ -1,6 +1,7 @@
 ## Dennis Angelov
 *Computer Science Undergraduate @ UCLA*
 *GPA: 3.779*
+*330 De Neve Drive, Los Angeles CA*
 
 > [https://github.com/denang1](https://github.com/denang1)
 > (224) 209-0232
@@ -54,6 +55,46 @@
 * #### Snake Game : _Game Development_ **2017**
 
   Created a 2-player variation of the game Snake using Java.
+
+<br>
+
+### Extracurriculars
+
+#### UCLA
+
+* #### ACM International Collegiate Programming Contest Club (ICPC) **(2018-)**
+    Work on preparing for the regional competition next fall by doing algorithmic programming problems
+
+* #### Unmanned Aerial Systems (UAS) **(2018-)**
+    Programmer on the visions team working on drone recognition of obstacles
+
+* #### Spikeball Club **(2018-)**
+    Play recreationally with friends and in small club-organized tournaments
+
+<br>
+
+#### Niles West High School
+
+* #### Ping-Pong Club **(2015-18)**
+    Founder and first captain of the varsity team
+
+* #### Science Olympiad **(2016-18)**
+    Varsity member on Experimental Design and Chemistry Lab
+
+* #### App Development Club **(2015-18)**
+    Vice President and coordinator of web development lessons
+
+* #### VEX Robotics **(2016-18)**
+    Robot C programmer that worked on user control and autonomous functionality
+
+* #### Worldwide Youth in Science and Engineering (WYSE) **(2016-18)**
+    Chemistry, Biology, and Computer Science test taker
+
+* #### Tennis **(2015-18)**
+    Varsity 1st doubles player for two years
+
+* #### National Honors Society **(2017-18)**
+    Worked on organizing fundrasing events for charities
 
 <br>
 
