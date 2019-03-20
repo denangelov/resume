@@ -1,19 +1,17 @@
 ## Dennis Angelov
-
-#### Computer Science Undergraduate @ UCLA
-
-#### GPA: 3.779
+*Computer Science Undergraduate @ UCLA*
+*GPA: 3.779*
 
 > [Github](https://github.com/denang1)
 > (224) 209-0232
 
----
+<br>
 
 ### Objective
 
 Looking for a software developer internship that will provide the opportunity to expand my programming knowledge and get exposed to work in the industry. Areas of particular interest include: Mobile App Development, REST API development, Automation, and Testing (Unit and E2E).
 
----
+<br>
 
 ### Skills
 
@@ -29,7 +27,7 @@ Experience with Angular 6, HTML5/CSS/Javascript (ES6), making responsive, mobile
 
 Experience developing interactive, 3D games using Unity and C#.
 
----
+<br>
 
 ### Technical
 
@@ -45,14 +43,14 @@ Experience developing interactive, 3D games using Unity and C#.
 10. NodeJS
 11. Git
 
----
+<br>
 
 ### Projects
 
 #### **AP Spanish Websites** : _Web Developer_ **2018**
 
 Created two modern websites, one using Angular 6 and Typescript, and the other using pure HTML/Javascript/CSS. The sites implement photo carousels and parallax scrolling/full page scrolling functionality.
-[Pure HTML/Javascript Site](https://denang1.github.io/Spanish-Website/)
+[https://denang1.github.io/Spanish-Website/](https://denang1.github.io/Spanish-Website/)
 [https://denang1.github.io/Spanish-Website-2/spanish-website](https://denang1.github.io/Spanish-Website-2/spanish-website)
 
 #### Evanston Biking Club (EBC) Database : _Web Developer_ **2018**
@@ -70,13 +68,13 @@ Created a 1st person horror game in Unity based off of Slender.
 #### Rock Paper Scissors AI : _Web Developer_ **2017**
 
 Created a website using the Materialize framework for stylistic choices and pure HTML/Javascript/CSS that features a Rock Paper Scissors game with a smart AI.
-[Rock Paper Scissors](https://denang1.github.io/RockPaperScissors/)
+[https://denang1.github.io/RockPaperScissors/](https://denang1.github.io/RockPaperScissors/)
 
 #### Snake Game : _Game Developer_ **2017**
 
 Created a 2-player variation of the game Snake using Java.
 
----
+<br>
 
 ### Achievements
 
