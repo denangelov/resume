@@ -1,8 +1,8 @@
-# Dennis Angelov
+## Dennis Angelov
 
-## Computer Science Undergraduate @ UCLA
+#### Computer Science Undergraduate @ UCLA
 
-## GPA: 3.779
+#### GPA: 3.779
 
 > [Github](https://github.com/denang1)
 > (224) 209-0232
@@ -53,7 +53,7 @@ Experience developing interactive, 3D games using Unity and C#.
 
 Created two modern websites, one using Angular 6 and Typescript, and the other using pure HTML/Javascript/CSS. The sites implement photo carousels and parallax scrolling/full page scrolling functionality.
 [Pure HTML/Javascript Site](https://denang1.github.io/Spanish-Website/)
-[Angular Site](https://denang1.github.io/Spanish-Website-2/)
+[https://denang1.github.io/Spanish-Website-2/spanish-website](https://denang1.github.io/Spanish-Website-2/spanish-website)
 
 #### Evanston Biking Club (EBC) Database : _Web Developer_ **2018**
 
