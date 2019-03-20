@@ -1,5 +1,7 @@
 # Dennis Angelov
+
 ## Computer Science Undergraduate @ UCLA
+
 ## GPA: 3.779
 
 > [Github](https://github.com/denang1)
@@ -15,14 +17,17 @@ Looking for a software developer internship that will provide the opportunity to
 
 ### Skills
 
-* **Data Structures & Algorithms**
-  Good grasp of fundamental of data structures and algorithms such as, linked lists, stacks, queues, vectors, trees, hash tables, graphs, recursion, sorting algorithms, .
+#### Data Structures & Algorithms
 
-* **Web Development**
-  Experience with Angular 6, HTML5/CSS/Javascript (ES6), making responsive, mobile-friendly websites.
+Good grasp of fundamental of data structures and algorithms such as, linked lists, stacks, queues, vectors, trees, hash tables, graphs, recursion, sorting algorithms, .
 
-* **Game Development**
-  Experience developing interactive, 3D games using Unity and C#.
+#### Web Development
+
+Experience with Angular 6, HTML5/CSS/Javascript (ES6), making responsive, mobile-friendly websites.
+
+#### Game Development
+
+Experience developing interactive, 3D games using Unity and C#.
 
 ---
 
@@ -44,44 +49,41 @@ Looking for a software developer internship that will provide the opportunity to
 
 ### Projects
 
-**AP Spanish Websites** : *Web Developer* __2018__
-  Created two modern websites, one using Angular 6 and Typescript, and the other using pure HTML/Javascript/CSS. The sites implement photo carousels and parallax scrolling/full page scrolling functionality.
+#### **AP Spanish Websites** : _Web Developer_ **2018**
+
+Created two modern websites, one using Angular 6 and Typescript, and the other using pure HTML/Javascript/CSS. The sites implement photo carousels and parallax scrolling/full page scrolling functionality.
 [Pure HTML/Javascript Site](https://denang1.github.io/Spanish-Website/)
 [Angular Site](https://denang1.github.io/Spanish-Website-2/)
 
-**Evanston Biking Club (EBC) Database** : *Web Developer* __2018__
-  Created a web application using XXX for the EBC members to use to track their ride statistics.
+#### Evanston Biking Club (EBC) Database : _Web Developer_ **2018**
 
-**C++ Set Implementation** : *Web Developer* __2018__
-  Implemented the standard library Set in C++ using a standard, doubly linked list as the underlying data structure.
+Created a web application using XXX for the EBC members to use to track their ride statistics.
 
-**Unity Horror Game** : *Game Developer* __2017__
-  Created a 1st person horror game in Unity based off of Slender. 
+#### C++ Set Implementation : _Web Developer_ **2018**
 
-**Rock Paper Scissors AI** : *Web Developer* __2017__
-  Created a website using the Materialize framework for stylistic choices and pure HTML/Javascript/CSS that features a Rock Paper Scissors game with a smart AI.
-  [Rock Paper Scissors](https://denang1.github.io/RockPaperScissors/)
+Implemented the standard library Set in C++ using a standard, doubly linked list as the underlying data structure.
 
-**Snake Game** : *Game Developer* __2017__
-  Created a 2-player variation of the game Snake using Java.
+#### Unity Horror Game : _Game Developer_ **2017**
 
- ---
+Created a 1st person horror game in Unity based off of Slender.
 
-  ### Achievements
+#### Rock Paper Scissors AI : _Web Developer_ **2017**
 
-  - American Society of Clinical Oncology (ASCO) Abstract Publication
+Created a website using the Materialize framework for stylistic choices and pure HTML/Javascript/CSS that features a Rock Paper Scissors game with a smart AI.
+[Rock Paper Scissors](https://denang1.github.io/RockPaperScissors/)
 
-  - American Society of Hematology (ASH) Abstract Publication
+#### Snake Game : _Game Developer_ **2017**
 
-  - International Ultmann Chicago Lymphoma Symposium Poster Publication
+Created a 2-player variation of the game Snake using Java.
 
-  - National AP Scholar
+---
 
-  - Commended for National Merit
+### Achievements
 
-  - 3rd in Experimental Design @ Illinois State Science Olympiad Competition
-
-  - 4th in Chemistry Lab @ Illinois State Science Olympiad Competition
-
-  
-
+1. American Society of Clinical Oncology (ASCO) Abstract Publication
+2. American Society of Hematology (ASH) Abstract Publication
+3. International Ultmann Chicago Lymphoma Symposium Poster Publication
+4. National AP Scholar
+5. Commended for National Merit
+6. 3rd in Experimental Design @ Illinois State Science Olympiad Competition
+7. 4th in Chemistry Lab @ Illinois State Science Olympiad Competition
