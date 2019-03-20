@@ -7,25 +7,19 @@
 
 <br>
 
-### Objective
-
-Looking for a software developer internship that will provide the opportunity to expand my programming knowledge and get exposed to work in the industry. Areas of particular interest include: Mobile App Development, REST API development, Automation, and Testing (Unit and E2E).
-
-<br>
-
 ### Skills
 
-#### Data Structures & Algorithms
+* #### Data Structures & Algorithms
 
-Good grasp of fundamental of data structures and algorithms such as, linked lists, stacks, queues, vectors, trees, hash tables, graphs, recursion, sorting algorithms, .
+  Good grasp of fundamental of data structures and algorithms such as, linked lists, stacks, queues, vectors, trees, hash tables, graphs, recursion, sorting algorithms, .
 
-#### Web Development
+* #### Web Development
 
-Experience with Angular 6, HTML5/CSS/Javascript (ES6), making responsive, mobile-friendly websites.
+  Experience with Angular 6, HTML5/CSS/Javascript (ES6), making responsive, mobile-friendly websites.
 
-#### Game Development
+* #### Game Development
 
-Experience developing interactive, 3D games using Unity and C#.
+  Experience developing interactive, 3D games using Unity and C#.
 
 <br>
 
