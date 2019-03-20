@@ -46,8 +46,8 @@ Looking for a software developer internship that will provide the opportunity to
 
 **AP Spanish Websites** : *Web Developer* __2018__
   Created two modern websites, one using Angular 6 and Typescript, and the other using pure HTML/Javascript/CSS. The sites implement photo carousels and parallax scrolling/full page scrolling functionality.
-> [Pure HTML/Javascript Site](https://denang1.github.io/Spanish-Website/)
-> [Angular Site](https://denang1.github.io/Spanish-Website-2/)
+[Pure HTML/Javascript Site](https://denang1.github.io/Spanish-Website/)
+[Angular Site](https://denang1.github.io/Spanish-Website-2/)
 
 **Evanston Biking Club (EBC) Database** : *Web Developer* __2018__
   Created a web application using XXX for the EBC members to use to track their ride statistics.
@@ -60,7 +60,7 @@ Looking for a software developer internship that will provide the opportunity to
 
 **Rock Paper Scissors AI** : *Web Developer* __2017__
   Created a website using the Materialize framework for stylistic choices and pure HTML/Javascript/CSS that features a Rock Paper Scissors game with a smart AI.
-  > [Rock Paper Scissors](https://denang1.github.io/RockPaperScissors/)
+  [Rock Paper Scissors](https://denang1.github.io/RockPaperScissors/)
 
 **Snake Game** : *Game Developer* __2017__
   Created a 2-player variation of the game Snake using Java.
