@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build:html": "md2resume --template standard resume.md",
-    "build:pdf": "md2resume --template standard --pdf resume.md"
+    "supplement-build:html": "md2resume --template standard supplement.md -o supplement-resume.html",
+    "build:pdf": "md2resume --template standard --pdf resume.md",
+    "supplement-build:pdf": "md2resume --template standard --pdf supplement.md -o supplement-resume.pdf"
   },
   "keywords": [],
   "author": "",
