@@ -32,7 +32,7 @@
 
 * #### Evanston Biking Club (EBC) Database : _Web Development_ **2018**
 
-  Created a web application using XXX for the EBC members to use to track their ride statistics.
+  Designed and developed the Evanston Biking Club a web application that helps to keep track of rides and statistics using Node.js, SQL, HighCharts, Socket.io (http://72.2.119.87:8080/)
 
 * #### Unity Horror Game : _Game Development_ **2017**
 
